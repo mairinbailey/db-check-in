@@ -13,7 +13,7 @@ YOUR ANSWER HERE
 YOUR ANSWER HERE
 ---
 
-### Describe how data is stored in a relational database using the terms table, field, record.
+### Describe how data is stored in a relational database. Use the terms table, field, record.
 
 ---
 YOUR ANSWER HERE
@@ -31,4 +31,4 @@ YOUR ANSWER HERE
 YOUR ANSWER HERE
 ---
 
-### Whiteboard a model of users with pets. Take a picture and upload it.
+### Create an ERD for users and pets. A user can have many pets. A pet has 1 user owner.
